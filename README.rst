@@ -6,7 +6,7 @@
     </p>
 
     <p align="center">
-        <img alt="Size" src="https://img.shields.io/github/languages/code-size/GigantPro/gcode-listner">
+        <img alt="Size" src="https://img.shields.io/github/languages/code-size/GigantPro/gcode-listener">
     </p>
 
 =========
