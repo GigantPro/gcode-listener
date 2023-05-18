@@ -6,7 +6,6 @@
     </p>
 
     <p align="center">
-        <a href="https://pypi.python.org/pypi/gcode-listner"><img alt="Python versions" src="https://img.shields.io/badge/python-3.10+"></a>
         <img alt="Size" src="https://img.shields.io/github/languages/code-size/GigantPro/gcode-listner">
     </p>
 
