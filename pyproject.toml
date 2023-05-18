@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "gcode-listner"
+version = "0.1.0"
+description = ""
+authors = ["GigantPro <pochtagigantpro@gmail.com>"]
+packages = [{include = "src"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pyqt5 = "^5.15.9"
+pysine = "^0.9.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
